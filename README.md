@@ -8,8 +8,8 @@ to build skills for Cloud / DevOps roles.
 ### What I learned
 -to know where AM I IN THE LINUX
 - CREAT FOLDER WITH THE HELP OF MKDIR
-- WITH ECHO COMAND I WILL WRITE SCRIPT
-- WITH CAT I CAN READ THE FILE 
+- WITH ECHO COMAND It WILL WRITE SCRIPT
+- WITH CAT command I CAN READ THE FILE 
 
 ### Commands I practiced
 # WHOAMI

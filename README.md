@@ -17,3 +17,17 @@ to build skills for Cloud / DevOps roles.
 # ECHO 
 # CAT 
 # MKDIR
+## day 2 - linux permission and commands
+
+## what i have learnt in day 2 of linux journey
+
+-i learned to create an copy of an file in the folder
+- and to rename the file with comands
+- how dangerous is to use rm -rf but wth caution
+
+## commands i practisesd today
+# mr -rf
+# echo$? 
+# touch files
+# creating folder inside the folder
+

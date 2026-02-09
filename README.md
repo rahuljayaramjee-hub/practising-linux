@@ -24,10 +24,15 @@ to build skills for Cloud / DevOps roles.
 -i learned to create an copy of an file in the folder
 - and to rename the file with comands
 - how dangerous is to use rm -rf but wth caution
+- learned to copy folder with cp -r and even if
+- the folder is not available it will copy the actaul folder
+- and try to copy the other folder when command
+- 
 
 ## commands i practisesd today
 # mr -rf
 # echo$? 
 # touch files
 # creating folder inside the folder
+
 

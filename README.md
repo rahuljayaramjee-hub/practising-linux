@@ -18,7 +18,7 @@ to build skills for Cloud / DevOps roles.
 # CAT 
 # MKDIR
 
-## day 2 - linux permission and commands
+# day 2 - linux permission and commands
 
 ## what i have learnt in day 2 of linux journey
 
@@ -28,7 +28,6 @@ to build skills for Cloud / DevOps roles.
 - learned to copy folder with cp -r and even if
 - the folder is not available it will copy the actaul folder
 - and try to copy the other folder when command
-- 
 
 ## commands i practisesd today
 # mr -rf
@@ -36,7 +35,7 @@ to build skills for Cloud / DevOps roles.
 # touch files
 # creating folder inside the folder
 
- ## day 3 - linux ownership and permissions
+ # day 3 - linux ownership and permissions
 
   # what i learnt in day 3 of linux journey
 

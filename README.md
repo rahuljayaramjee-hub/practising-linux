@@ -51,7 +51,7 @@ to build skills for Cloud / DevOps roles.
     ### chown = giving the ownership permission
     ### to check which server is running with "ps aux | grep nginx"
 
-    # day 3 - creting user,groups and sudo and switching users
+    # day 4 - creting user,groups and sudo and switching users
 
       ## waht i have learnt in day 4 of liux journey
 

@@ -9,7 +9,7 @@ to build skills for Cloud / DevOps roles.
 -to know where AM I IN THE LINUX
 - CREAT FOLDER WITH THE HELP OF MKDIR
 - WITH ECHO COMAND It WILL WRITE SCRIPT
-- WITH CAT command I CAN READ THE FILE 
+- WITH "CAT" command WE READ THE FILE 
 
 ## Commands I practiced
 ### WHOAMI
@@ -53,7 +53,7 @@ to build skills for Cloud / DevOps roles.
 
     # day 4 - creting user,groups and sudo and switching users
 
-      ## waht i have learnt in day 4 of liux journey
+      ## what i have learnt in day 4 of liux journey
 
     - creating users and groups and installing the service
     - understanding the diffrence between normal user and sudo admin user
@@ -93,7 +93,7 @@ to build skills for Cloud / DevOps roles.
         ### start service - sudo systemctl stop serive-name
         ### start service - sudo systemctl restart serive-name
         ### start service - sudo systemctl disable serive-name
-        #### start service - sudo systemctl enable serive-name
+        ### start service - sudo systemctl enable serive-name
          ### ps aux | head
         ### q to exit the service 
          

@@ -68,7 +68,37 @@ to build skills for Cloud / DevOps roles.
        ### id comand to show the user in the groups
        ### sudo usermod -aG sudo ( username )
        ### su - (user) to switch the user
-       ### sudo whiami and  exit 
+       ### sudo whiami and  exit
+      
+       # day 5 - process and sevices ( admin level)
+
+      ## what i have learnt in day 5 of linux journey
+
+       - process is an running system
+       - to check the live monitoring
+       - to kill an process
+       - to force stop the process
+       - service is the backgroup program
+       - systemctl uses the backgrooup services
+       - to stop, start , and reserat the services to
+       - to check why the service is down
+       - to check top services running 
+     
+
+          ### commands i have practised
+         ### ps aux | grep serive_name
+        ### kill comand
+        ### force kill -9 comand to kill forcefuly
+        ### start service - sudo systemctl start serive-name
+        ### start service - sudo systemctl stop serive-name
+        ### start service - sudo systemctl restart serive-name
+        ### start service - sudo systemctl disable serive-name
+        #### start service - sudo systemctl enable serive-name
+         ### ps aux | head
+        ### q to exit the service 
+         
+  
+       
 
     
 

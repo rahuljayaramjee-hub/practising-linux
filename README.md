@@ -95,7 +95,39 @@ to build skills for Cloud / DevOps roles.
         ### start service - sudo systemctl disable serive-name
         ### start service - sudo systemctl enable serive-name
          ### ps aux | head
-        ### q to exit the service 
+        ### q to exit the service
+
+      # day -6 logs and troubleshooting ( admin level )
+
+      ## what i have learnt in day 6 linux journey
+       - what logs are and where the logs stores
+       - general system logs boot logs
+       - real time mounitoring with the help of top
+       - modern system instead of reading files
+       - mountering authentication of login passwords
+       - checking the terminal like usage of ram and cpu
+
+
+         ## commands i practisesd hands on in ubuntu led linux        - 
+
+         ### /var/logs here logs stored
+         #### cat /var/log/auth.log shows ssh login and failed attempts
+        #### /var/log/syslog it shows system back ground logs
+        #### tail -f /var/log/syslog shows the real time mountering
+        #### -f shows the live update of usage
+        #### sudo -k its clear the chache
+        #### sleep means the terminal stops working
+        #### sleep & it will works in the background and we can use the terminal
+        #### bg command will resume in the backgeound
+        #### ctrl + z will stop the process in the terminal
+        #### fg menas it will bring back the background process on the screen
+        #### less shows all the process files
+        #### head shows all the top 10 process
+        #### tail shows the last 10 process
+        #### zombie process we can't kill becasue it alredy deied we can kill the parent process or we can restart the system
+        #### free -h shows the memory usage
+        #### df -h shows the disk usage
+        #### ps aux --sort=-%cpu | head shows the process running
          
   
        

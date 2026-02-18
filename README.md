@@ -130,14 +130,31 @@ to build skills for Cloud / DevOps roles.
         #### ps aux --sort=-%cpu | head shows the process running
          
   
-       
+       # day 7 ssh and remote access
 
-    
+      ## what i have learnt in day 7 of linux journey
+ 
+      ## SSH = Secure Shell Used to securely connect to a remote Linux server over a network
+## Default port: 22
+## Encrypted communication (unlike Telnet)
+## Remote login
+## File transfer
+## Remote command execution
+## Server administration
 
-       
-    
+   ###  command i have practised in day 7 of linux journey
+  = sudo systemctl status nginx
+  = sudo systemctl start nginx
+  = sudo systemctl stop nginx
+  = sudo systemctl enable nginx
+  = sudo ss -tulnp | grep nginx
 
 
+
+
+
+
+  
     
     
 

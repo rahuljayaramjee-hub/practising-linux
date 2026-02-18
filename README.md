@@ -143,11 +143,11 @@ to build skills for Cloud / DevOps roles.
 ## Server administration
 
    ###  command i have practised in day 7 of linux journey
-  = sudo systemctl status nginx
-  = sudo systemctl start nginx
-  = sudo systemctl stop nginx
-  = sudo systemctl enable nginx
-  = sudo ss -tulnp | grep nginx
+  #### sudo systemctl status nginx
+  #### sudo systemctl start nginx
+  #### sudo systemctl stop nginx
+  #### sudo systemctl enable nginx
+  #### sudo ss -tulnp | grep nginx
 
 
 

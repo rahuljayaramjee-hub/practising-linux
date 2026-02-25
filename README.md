@@ -81,7 +81,7 @@ to build skills for Cloud / DevOps roles.
        - service is the backgroup program
        - systemctl uses the backgrooup services
        - to stop, start , and reserat the services to
-       - to check why the service is down
+       - to check whether the service is down
        - to check top services running 
      
 

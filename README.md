@@ -17,6 +17,7 @@ to build skills for Cloud / DevOps roles.
 ### ECHO 
 ### CAT 
 ### MKDIR
+--- 
 
 # 💻 day 2 - linux permission and commands
 
@@ -34,7 +35,7 @@ to build skills for Cloud / DevOps roles.
 ### echo$? 
 ### touch files
 ### creating folder inside the folder
-
+---
  # day 3 - linux ownership and permissions
 
   ## what i learnt in day 3 of linux journey
@@ -50,6 +51,8 @@ to build skills for Cloud / DevOps roles.
     ### chmod = changing the permission
     ### chown = giving the ownership permission
     ### to check which server is running with "ps aux | grep nginx"
+    
+--- 
 
     # 💻 day 4 - creting user,groups and sudo and switching users
 
@@ -69,7 +72,7 @@ to build skills for Cloud / DevOps roles.
        ### sudo usermod -aG sudo ( username )
        ### su - (user) to switch the user
        ### sudo whiami and  exit
-      
+      ---
        # 💻 day 5 - process and sevices ( admin level)
 
       ## what i have learnt in day 5 of linux journey
@@ -96,7 +99,7 @@ to build skills for Cloud / DevOps roles.
         ### start service - sudo systemctl enable serive-name
          ### ps aux | head
         ### q to exit the service
-
+---
       # 💻 day -6 logs and troubleshooting ( admin level )
 
       ## what i have learnt in day 6 linux journey

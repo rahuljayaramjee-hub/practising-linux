@@ -3,7 +3,7 @@
 I am learning Linux fundamentals step by step
 to build skills for Cloud / DevOps roles.
 
-# Day 1 – linux core file systems and navigations
+# 💻 Day 1 – linux core file systems and navigations
 
 ## What I learned
 -to know where AM I IN THE LINUX
@@ -18,7 +18,7 @@ to build skills for Cloud / DevOps roles.
 ### CAT 
 ### MKDIR
 
-# day 2 - linux permission and commands
+# 💻 day 2 - linux permission and commands
 
 ## what i have learnt in day 2 of linux journey
 
@@ -51,7 +51,7 @@ to build skills for Cloud / DevOps roles.
     ### chown = giving the ownership permission
     ### to check which server is running with "ps aux | grep nginx"
 
-    # day 4 - creting user,groups and sudo and switching users
+    # 💻 day 4 - creting user,groups and sudo and switching users
 
       ## what i have learnt in day 4 of liux journey
 
@@ -70,7 +70,7 @@ to build skills for Cloud / DevOps roles.
        ### su - (user) to switch the user
        ### sudo whiami and  exit
       
-       # day 5 - process and sevices ( admin level)
+       # 💻 day 5 - process and sevices ( admin level)
 
       ## what i have learnt in day 5 of linux journey
 
@@ -97,7 +97,7 @@ to build skills for Cloud / DevOps roles.
          ### ps aux | head
         ### q to exit the service
 
-      # day -6 logs and troubleshooting ( admin level )
+      # 💻 day -6 logs and troubleshooting ( admin level )
 
       ## what i have learnt in day 6 linux journey
        - what logs are and where the logs stores

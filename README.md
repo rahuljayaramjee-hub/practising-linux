@@ -36,7 +36,7 @@ to build skills for Cloud / DevOps roles.
 ### touch files
 ### creating folder inside the folder
 ---
- # day 3 - linux ownership and permissions
+ # 💻 day 3 - linux ownership and permissions
 
   ## what i learnt in day 3 of linux journey
 

@@ -153,6 +153,9 @@ to build skills for Cloud / DevOps roles.
   #### sudo ss -tulnp | grep nginx
 
 
+    that's all for the linux foundation for cloud devops
+
+
 
 
 

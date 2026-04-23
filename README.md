@@ -11,12 +11,14 @@ to build skills for Cloud / DevOps roles.
 - WITH ECHO COMAND It WILL WRITE SCRIPT
 - WITH "CAT" command WE READ THE FILE 
 
+```
 ## Commands I practiced
 ### WHOAMI
 ### IS -1
 ### ECHO 
 ### CAT 
-### MKDIR
+### MKDIR .
+```
 --- 
 
 # 💻 day 2 - linux permission and commands
@@ -30,7 +32,7 @@ to build skills for Cloud / DevOps roles.
 - the folder is not available it will copy the actaul folder
 - and try to copy the other folder when command
 
-### commands i practisesd today
+### commands i practised for linux
 ### mr -rf
 ### echo$? 
 ### touch files

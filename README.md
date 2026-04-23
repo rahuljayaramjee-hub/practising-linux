@@ -131,6 +131,8 @@ to build skills for Cloud / DevOps roles.
         #### free -h shows the memory usage
         #### df -h shows the disk usage
         #### ps aux --sort=-%cpu | head shows the process running
+
+        ---
          
   
        # day 7 ssh and remote access

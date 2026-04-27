@@ -156,6 +156,7 @@ to build skills for Cloud / DevOps roles.
   #### sudo systemctl enable nginx
   #### sudo ss -tulnp | grep nginx
 
+its not showing my geithub commits so this is an trail
 
 
 

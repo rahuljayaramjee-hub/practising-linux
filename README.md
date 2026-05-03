@@ -155,8 +155,7 @@ to build skills for Cloud / DevOps roles.
   #### sudo systemctl stop nginx
   #### sudo systemctl enable nginx
   #### sudo ss -tulnp | grep nginx
-github email verification 
-
+github email verified successfully 
 
 
 

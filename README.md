@@ -163,7 +163,9 @@ github email verified successfully
 ---
 linux foundation completed
 
+---
 
+next will be terraform scrpting
   
     
     
